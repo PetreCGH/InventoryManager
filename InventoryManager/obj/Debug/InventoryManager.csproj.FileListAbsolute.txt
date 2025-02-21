@@ -1,0 +1,14 @@
+D:\lucramc#\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe.config
+D:\lucramc#\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe
+D:\lucramc#\InventoryManager\InventoryManager\bin\Debug\InventoryManager.pdb
+D:\lucramc#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.AssemblyReference.cache
+D:\lucramc#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.Mainform.resources
+D:\lucramc#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.Properties.Resources.resources
+D:\lucramc#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.GenerateResource.cache
+D:\lucramc#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.CoreCompileInputs.cache
+D:\lucramc#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.exe
+D:\lucramc#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.pdb
+D:\lucramc#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.ComenziForm.resources
+D:\lucramc#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.FurnizoriForm.resources
+D:\lucramc#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.ProduseForm.resources
+D:\lucramc#\InventoryManager\InventoryManager\obj\Debug\InventoryManager.LoginForm.resources
